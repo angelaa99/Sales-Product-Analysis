@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, I will be analysed the sales data from vairous aspect. The main objective here is to generate insights from sales data, trends, and metrics to set targets and improve business performance. The process includes data reading, cleaning, manipulating, and analizing. It will be intitally reading and cleaning by using Python, manipulating and analyzing using Excel and SQL, and finally visualising using Tableau. 
+In this project, I will be analysed the sales data from vairous aspect. The main objective here is to generate insights from sales data, trends, and market segments to target to improve business performance. The process includes data reading, cleaning, manipulating, and analizing. It will be intitally reading and cleaning by using Python, manipulating and analyzing using Excel and SQL, and finally visualising using Tableau. 
 
 **The Dataset:** [Sales Product Dataset](https://www.kaggle.com/datasets/knightbearr/sales-product-data)
 
