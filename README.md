@@ -6,7 +6,7 @@ In this project, I will be analysed the sales data from vairous aspect. The main
 
 **The Dataset:** [Sales Product Dataset](https://www.kaggle.com/datasets/knightbearr/sales-product-data)
 
-**Python Notebook:** [sales-product-data-cleaning]()
+**Python Notebook:** [sales-product-data-cleaning](https://github.com/angelaa99/Sales-Product-Analysis/blob/main/sales-product-data-cleaning.ipynb)
 
 **Tableau:** [Sales Product Analysis](https://public.tableau.com/app/profile/gaik.sim.loh/viz/SalesProductAnalysis_16872735992910/Dashboard1)
 
