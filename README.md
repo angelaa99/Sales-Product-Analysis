@@ -10,7 +10,7 @@ In this project, I will be analysed the sales data from vairous aspect. The main
 
 **SQL:** [Sales_Product_Data.sql](https://github.com/angelaa99/Sales-Product-Analysis/blob/main/Sales_Product_Data.sql)
 
-**Tableau:** [Sales Product Analysis](https://public.tableau.com/app/profile/gaik.sim.loh/viz/SalesProductAnalysis_16872735992910/Dashboard1)
+**Tableau:** [Sales Product Analysis](https://public.tableau.com/app/profile/gaik.sim.loh/viz/SalesProductAnalysis_16872735992910/Story1)
 
 ## Data Description
 
